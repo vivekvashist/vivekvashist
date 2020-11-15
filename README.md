@@ -5,6 +5,6 @@
  <img src="https://github.com/vivekvashist/vivekvashist/blob/master/images/Twitter.png" height="50">
 </a>
 <a href="https://https://www.linkedin.com/in/vivek-vashist-05750a31/">
- <img src="https://github.com/vivekvashist/vivekvashist/blob/master/images/LI" height="50">
+ <img src="https://github.com/vivekvashist/vivekvashist/blob/master/images/LI.png" height="50">
 </a>
 </p>
