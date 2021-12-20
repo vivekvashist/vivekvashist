@@ -1,1 +1,1 @@
-<h1 align="center">Hi, I'm Vivek Vashist</h1>
+[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekvashist)](https://github.com/vivekavshist/github-readme-stats)
